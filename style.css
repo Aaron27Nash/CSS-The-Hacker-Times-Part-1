@@ -4,6 +4,17 @@
     text-align: center;
     font-family: Abril Fatface;
     }
+h2{
+    font-family: Roboto Slab;
+    font-size: xx-large;
+}  
+.newspaper-container{
+    width: 700px;;
+    margin: 3em auto;
+    border-radius: 10px;
+    box-shadow: #ddd;
+    background: #eee;
+}  
 nav li{
     
     display: inline;
@@ -27,6 +38,8 @@ main h2{
     text-align: left;
 }
 section{
+    border-radius: 10px;
+    background: #eee;
     width: 45%;
     display: inline;
     padding: 1em;
@@ -36,10 +49,11 @@ h5{
     color: red;
 }
 body{
-    padding: 3em;
+    border-radius: 10px color #ddd;
+ padding: 5em;
     margin: auto;
-    background-color: #eee;
-    box-shadow: #ddd;
+    background-color: #ddd;
+    box-shadow:#eee;
 }
 h4{
     font-size: larger;
